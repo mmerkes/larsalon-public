@@ -14,9 +14,9 @@
 
 | Diety | Alignment | Suggested Domains | Affiliations |
 |-------|-----------|-------------------|--------------|
-|[Traxanos](dieties/traxanos.md) | CE | War, Death, Tempest | Minotaurs |
-|[Lokada](dieties/lokada.md) | LG | Life, Light, Peace | Minotaurs |
-|[Stako](dieties/stako.md) | N | Arcana, Knowledge, Nature, Twilight | Minotaurs |
+|[Traxanos, The Sea Tyrant](dieties/traxanos.md) | CE | War, Death, Tempest | Minotaurs |
+|[Lokada, The Peacekeeper](dieties/lokada.md) | LG | Life, Light, Peace | Minotaurs |
+|[Stako, The Quiet One, The Philosopher](dieties/stako.md) | N | Arcana, Knowledge, Nature, Twilight | Minotaurs |
 
 ### The Unforgiving (unofficial)
 
