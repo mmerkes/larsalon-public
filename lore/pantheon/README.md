@@ -18,6 +18,14 @@
 |[Lokada](dieties/lokada.md) | LG | Life, Light, Peace | Minotaurs |
 |[Stako](dieties/stako.md) | N | Arcana, Knowledge, Nature, Twilight | Minotaurs |
 
+### The Unforgiving (unofficial)
+
+| Diety | Alignment | Suggested Domains | Affiliations |
+|-------|-----------|-------------------|--------------|
+| God of the sea  TODO | NE | Nature, Death | None |
+| God of the desert   TODO | NE | Nature, Death | None |
+| God of the cold TODO | NE | Nature, Death | None |
+
 ### Unaffiliated
 
 | Diety | Alignment | Suggested Domains | Affiliations |
