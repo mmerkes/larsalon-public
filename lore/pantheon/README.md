@@ -46,4 +46,4 @@ This includes work in progress deities that are currently unassigned a triad, bu
 
 | Diety | Alignment | Suggested Domains | Affiliations |
 |-------|-----------|-------------------|--------------|
-| Mara, The Moon Maiden | CE | Arcane, Trickery, Twilight | Lycanthropes, Creatures of the Night |
+| [Mara, The Moon Maiden](mara.md) | CE | Arcane, Trickery, Twilight | Lycanthropes, Creatures of the Night |
