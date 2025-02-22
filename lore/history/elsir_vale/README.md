@@ -2,7 +2,7 @@
 
 ## Notable Powers
 
-### [The Three Clans Dwarven Kingdom](the_three_clans_dwarven_kingdoms.md)
+### [The Three Clans Dwarven Kingdom](the_three_clans_dwarven_kingdom.md)
 
 An ancient dwarf-kingdom that spanned the Wyrmsmoke and Giantshield Mountains more than a thousand years ago and built most of the roadways, the city of Overlook and the fortresses in the pass. After the dwarf-realm passed, the presence of various monsters and raiders kept traffic along the Dawn Way light for many years; few caravans dared the long and dangerous trek. Few humans lived in Elsir Vale during those years—only scattered settlements of druidic folk who left behind little more than grassy barrows and stone circles on the hilltops.
 
