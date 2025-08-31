@@ -39,6 +39,7 @@
 | Diety | Alignment | Suggested Domains | Affiliations |
 |-------|-----------|-------------------|--------------|
 | The Wanderer | CN | Trickery | None, (favored by halflings) |
+| [Mistress of Whispers](dieties/mistress_of_whispers.md) | N | Knowledge, Arcana | None |
 
 ### Unassigned
 
