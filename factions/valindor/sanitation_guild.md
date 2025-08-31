@@ -6,7 +6,7 @@
 |------|----------|-------|
 | Himmy Joffa | President, Dustman | Human |
 | Hames Joffa | Secretary, Frogman | Human, Son of Himmy Joffa |
-| Looking up... | Assistant to Hames, Frogman | |
+| Deets | Assistant to Hames, Frogman | |
 
 
 ## The Rat's Nest
